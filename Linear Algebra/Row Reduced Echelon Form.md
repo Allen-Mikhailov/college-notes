@@ -36,4 +36,5 @@ $$
 $$
 Free variables are variables when a column does not have any <span style="color:orange">pivots</span>. Ex: $x_2$ and $x_4$. This means they can be any value you want.
 $x_3=4$ because $0x_1+0x_2 + 1x_3 + 0x_4=4$ 
-$x_1=3-4x_2-3x_3$ so it s dependent on
+$x_1=3-4x_2-3x_3$ so it s dependent on $x_2$ and $x_3$
+$x_2 \epsilon $

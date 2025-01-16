@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diff Eq/What do you mean solution.md",
+                "file": "Elec 220/What is a computer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What do you mean solution"
+              "title": "What is a computer"
             }
           }
         ],
@@ -192,20 +192,24 @@
   },
   "active": "d1c354ba62b0c4b3",
   "lastOpenFiles": [
-    "Diff Eq/Stability.md",
-    "Diff Eq/What do you mean solution.md",
-    "Diff Eq/Untitled.canvas",
-    "Diff Eq/Initial Value Problem.md",
     "Comp 182/Chapter 1 - The How, When, and Why of Mathematics.md",
     "Comp 182/Journal Template.md",
-    "Fall 2024/The Sciences of the Mind/Base.md",
+    "Linear Algebra/Fields.md",
     "Linear Algebra/Row Reduced Echelon Form.md",
-    "Comp 182",
-    "Untitled.canvas",
-    "2025-01-14.md",
     "Linear Algebra/Row Reduction Algorithm.md",
     "Linear Algebra/Row operations.md",
     "Linear Algebra/Introduction.md",
+    "Diff Eq/What do you mean solution.md",
+    "Excalidraw/What do you mean solution 2025-01-15 12.52.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-15 12.49.34.excalidraw.md",
+    "Excalidraw",
+    "Diff Eq/Stability.md",
+    "Diff Eq/Untitled.canvas",
+    "Diff Eq/Initial Value Problem.md",
+    "Fall 2024/The Sciences of the Mind/Base.md",
+    "Comp 182",
+    "Untitled.canvas",
+    "2025-01-14.md",
     "Elec 220/What is a computer.md",
     "Fall 2024",
     "Diff Eq",
@@ -223,9 +227,6 @@
     "Fall 2024/The Sciences of the Mind/Exam 3/Rational Action.md",
     "Fall 2024/The Sciences of the Mind/Exam 3",
     "Fall 2024/The Sciences of the Mind/Sensory Consciousness.md",
-    "Fall 2024/The Sciences of the Mind/Indicative Representations.md",
-    "Fall 2024/The Sciences of the Mind/Imperative Representations.md",
-    "Fall 2024/The Sciences of the Mind/Levels Of explanation.md",
     "Fall 2024/The Sciences of the Mind"
   ]
 }

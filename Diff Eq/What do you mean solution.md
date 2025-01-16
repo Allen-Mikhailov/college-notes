@@ -34,6 +34,7 @@ Ex:
 $\frac{dy}{dt}=y(1000-y)$
 Equilibrium solutions are $y=0,y=1000$
 Just graph the slope fields
+![[What do you mean solution 2025-01-15 12.52.01.excalidraw]]
 
 An isodine of the DE $y'=f(t,y)$ is a curve in the ty-plane of the form $f(t,y)=m$ ($m$ is constant)
 

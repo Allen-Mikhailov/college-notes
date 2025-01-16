@@ -19,7 +19,7 @@ Steps to solve problems:
 
 ## Exercises
 ### 1.1
-
+Question: Find a word (written in capital letters) that is unchanged when reflected in a horizontal line and in a vertical line. The word must appear in a dictionary in order to be a valid solution
 
 ### Notation
 - Notation 1
