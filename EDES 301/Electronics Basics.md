@@ -51,3 +51,6 @@ Power is dissipated in the form of heat. 60 Watt PC is 60 Watts converted to hea
 ### RC Filter
 Low pass filter with RC time constant
 ![[Electronics Basics 2025-01-16 21.02.45.excalidraw]]
+
+### Comparator (Operational )
+![[Electronics Basics 2025-01-23 20.53.17.excalidraw]]
