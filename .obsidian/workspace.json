@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diff Eq/What do you mean solution.md",
+                "file": "Diff Eq/General linear (algebraic) equasions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What do you mean solution"
+              "title": "General linear (algebraic) equasions"
             }
           }
         ]
@@ -177,12 +177,15 @@
   },
   "active": "4ca53b12d7628edc",
   "lastOpenFiles": [
+    "Diff Eq/Picard's Theorem.md",
+    "Diff Eq/General linear (algebraic) equasions.md",
+    "Diff Eq/Initial Value Problem.md",
+    "Diff Eq/Continuity.md",
+    "EDES 301/Exploring Datasheets.md",
+    "Linear Algebra/Linear Independence.md",
+    "Diff Eq/What do you mean solution.md",
     "Diff Eq/Linear Differential Equasions.md",
     "Linear Algebra/Matrix Times Vector.md",
-    "Diff Eq/What do you mean solution.md",
-    "Diff Eq/Continuity.md",
-    "Diff Eq/Initial Value Problem.md",
-    "Diff Eq/Picard's Theorem.md",
     "Diff Eq/Quantatitive Analysis.md",
     "Excalidraw/Matrix Times Vector 2025-01-23 23.58.19.excalidraw.md",
     "Excalidraw/Picard's Theorem 2025-01-22 10.08.17.excalidraw.md",
@@ -200,9 +203,6 @@
     "Linear Algebra/Row Reduction Algorithm.md",
     "Linear Algebra/Vector Space.md",
     "LED Cube/Initial Design.md",
-    "Elec 220/Charels Babbage (1791-1871).md",
-    "Elec 220/What is a computer.md",
-    "Fall 2024/The Sciences of the Mind/Imperative Representations.md",
     "LED Cube",
     "Plugin Tests",
     "EDES 301",
