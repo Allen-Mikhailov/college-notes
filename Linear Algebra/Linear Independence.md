@@ -13,4 +13,17 @@ A list is linear independent if the only way to get $x=0$ is the only solution t
 ### Linear Dependence Proposition
 $\{v_1;...;v_n\}$  is linearly dependent is one of the vectors is in the span of the others
 
+Row reduction condition
+If every column has a pivot then the list is independent 
+
+To show that $v_1,...,v_n\in V$ over a field $\mathbb{F}$ 
+IF $c_1v_1+...+c_nv_n=0$ then $c_1=c_2=c_n=0$
+
+Example:
+$\{t,t^2\}\subset \mathbb{P}$ is Lin. Ind.
+Assume $c_1t+c_2t^2=0=f(t)=0$ 
+$c_1+2c_2t$
+
+
+
 

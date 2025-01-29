@@ -1,4 +1,4 @@
-Everything is actually Analog, but it can be abstract it with digital
+cEverything is actually Analog, but it can be abstract it with digital
 ![[Electronics Basics 2025-01-16 20.06.39.excalidraw]]
 There are tons of different abstraction layers so we do not have do deal with the messy stuff.
 If things go wrong though you may have to have to go down layers to fix.
