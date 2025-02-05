@@ -1,4 +1,4 @@
-Whats a field:
+What is s a field:
 Scalars that we can do linear algebra with
 
 $\mathbb{R} =$ set of all real numbers $\frac{1}{2}, \sqrt{2}, \pi$

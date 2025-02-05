@@ -22,7 +22,7 @@ units: $\frac{lbs}{min}$
 Example (Brine Mixing)
 $V(t)=50 gal$
 $rate\_in=2*3$
-solution us well mixed and pours out at a rate of
+solution is well mixed and pours out at a rate of
 $3\frac{gal}{min}$
 What IVP satisfies $x(t)$
 $\frac{dx}{dt}=6\frac{gal}{min}-(concentration\_out)3\frac{gal}{min}$
