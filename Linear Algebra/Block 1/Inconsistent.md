@@ -1,0 +1,1 @@
+For a  system of equations to be inconsistent is must have no solution
